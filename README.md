@@ -12,7 +12,7 @@ My not-so-needed details:
 > 
 > Likes low level stuff, made an [OS](https://github.com/Rishies2010/StartOS)
 > 
-> Got banned from the **OSDev Discord** for no reason
+> Got banned from the **OSDev Discord** for a special word
 > 
 > Loves **Minecraft**, owns an [SMP named NomadLife](https://nomadlife.qzz.io)
 > 
